@@ -67,12 +67,12 @@ capcity of the model to classify new data (unseen data) as shown.
 ## Conclution
 
 #### Precision : 0.97
- : Out of all the positive predicted, what percentage is truly positive.
- : fraud identified as fraud / total fraud prediction 
+-> Out of all the positive predicted, what percentage is truly positive. 
+<br />-> fraud identified as fraud / total fraud prediction 
 
 #### Recall : 0.873
- : Out of the total positive, what percentage are predicted positive.
- : fraud identified as fraud / actual total fraud
+-> Out of the total positive, what percentage are predicted positive.
+<br />-> fraud identified as fraud / actual total fraud
 
  
 we need to protect user’s finances by trying to flag as many fraud transactions as possible while at the same time not mislabeling too many transactions so users can make transcation without the inconvenience of having transactions declined. 
