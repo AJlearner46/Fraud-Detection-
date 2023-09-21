@@ -55,10 +55,12 @@ XGBClassifier  (  base_score=None,   booster='gbtree',   callbacks=None,
 
               
 Below there's a table with the capacity of the model to learn.
+
 ![Screenshot 2023-09-21 223534](https://github.com/AJlearner46/Fraud-Detection-/assets/99804336/e0fdaf88-6f38-41fb-966c-fd084944c12a)
 
 
-It's possible to determinize the capacity of the model to generalize using unseen data. In other words, capcity of the model to classify new data as shown. 
+capcity of the model to classify new data (unseen data) as shown.
+
 ![Screenshot 2023-09-21 223603](https://github.com/AJlearner46/Fraud-Detection-/assets/99804336/45b5fa2a-ee7e-42ad-8a2a-b6f1a470e9a6)
 
 
